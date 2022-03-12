@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on @Java
-- 🌱 I’m currently learning Java, Middleware
+- 🔭 I’m currently working with Java
+- 🌱 I’m currently learning Middleware,Database
 
 ### My Slogan
 Open source can break knowledge silos!
