@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working with Java
 - 🌱 I’m currently learning Middleware, Database
+- LeetCode: https://leetcode-cn.com/u/hai-ha/
 - Welcome to issue me
 
 ### My Slogan
