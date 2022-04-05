@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with Java
-- 🌱 I’m currently learning Middleware, Database
+- 🌱 I’m currently learning Backend, Web
 - LeetCode: https://leetcode-cn.com/u/hai-ha/
 - Welcome to issue me
 
