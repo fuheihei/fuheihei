@@ -11,7 +11,7 @@
 Open source can break knowledge silos!
 
 ### Posts
-[如何搭建hexo博客并添加gitalk评论](https://fuheihei.github.io/2022/04/15/tools/how-to-build-my-blog/)
+[如何搭建hexo博客并添加gitalk评论](https://fuheihei.github.io/tools/how-to-build-my-blog/)
 
 <!--
 **fuheihei/fuheihei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
