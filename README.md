@@ -7,7 +7,7 @@
 - LeetCode: https://leetcode-cn.com/u/hai-ha/
 - Welcome to issue me
 
-![Java](https://img.shields.io/badge/Java-1.8-orange) ![Python](https://img.shields.io/badge/Python-3.7-blue) ![Go](https://img.shields.io/badge/Go-1.18-40a9ff) ![Markdown](https://img.shields.io/badge/Markdown-2004-white)
+![Java](https://img.shields.io/badge/Java-1.8-orange) ![Python](https://img.shields.io/badge/Python-3.8-blue) ![Go](https://img.shields.io/badge/Go-1.18-40a9ff) ![Markdown](https://img.shields.io/badge/Markdown-2004-white)
 
 ### My Slogan
 Open source can break knowledge silos!
