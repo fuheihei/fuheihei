@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi here 👋
 
 - 🔭 I’m currently working with Java
 - 🌱 I’m currently learning Backend, Web
