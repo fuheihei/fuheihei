@@ -1,10 +1,10 @@
 ### Hi here 👋
 
-- 🔭 I’m currently working with Java
-- 🌱 I’m currently learning Backend, Web
+- 🔭 I’m currently working with Java, Python, C++
+- 🌱 I’m currently learning Backend, Distributed System, Interesting Math in Software
 - 🎓 M.S. in Software Engineering
-- Blog(seldom update): https://fuheihei.github.io/ 
-- LeetCode: https://leetcode-cn.com/u/hai-ha/
+- Blog: https://fuheihei.github.io/ 
+- LeetCode(knight top5%): https://leetcode-cn.com/u/hai-ha/
 - Welcome to issue me
 
 ![Java](https://img.shields.io/badge/Java-1.8-orange) ![Python](https://img.shields.io/badge/Python-3.8-blue) ![Go](https://img.shields.io/badge/Go-1.18-40a9ff) ![Markdown](https://img.shields.io/badge/Markdown-2004-white)
