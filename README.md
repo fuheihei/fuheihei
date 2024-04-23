@@ -1,7 +1,7 @@
 ### Hi here 👋
 
 - 🔭 I’m currently working with Java, Python, C++
-- 🌱 I’m currently learning Backend, Distributed System, Interesting Math in Software
+- 🌱 I’m currently learning Backend, Distributed System, interesting Math in Software
 - 🎓 M.S. in Software Engineering
 - Blog: https://fuheihei.github.io/ 
 - LeetCode(knight top5%): https://leetcode-cn.com/u/hai-ha/
